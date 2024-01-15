@@ -1,6 +1,6 @@
 # Project Version Control Readme
 
-## Welcome!
+## Welcome
 
 Hello team! This readme explains why we use version control and how it helps us.
 
